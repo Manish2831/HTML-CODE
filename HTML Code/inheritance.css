@@ -1,0 +1,26 @@
+body{
+    color: red;
+}
+.container1{
+    color: green;
+}
+.container2{
+    color: rgb(101, 13, 242);
+}
+h1{
+    color: orange;
+    background: lightblue;
+    text-align: center;
+    width: 500px;
+
+}
+a{
+    color: brown;
+    text-decoration: none;
+    background:lightcoral ;
+    text-align: center;
+
+}
+p{
+    font-weight: 700;
+}

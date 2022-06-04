@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:ital,wght@0,400;1,700&display=swap');
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.main-header{
+    background-color: #d0d6d5 ;
+}
+.main-section{
+    background-color:#e0e0e0 ;
+}
+span{
+    background-color: #a3a313;
+}

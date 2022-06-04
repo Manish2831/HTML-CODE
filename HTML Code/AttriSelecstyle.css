@@ -1,0 +1,41 @@
+input[type="text"]{
+    color:red;
+    background-color: rgb(177, 233, 233);
+}
+
+input[type="password"]{
+    color: rgb(104, 9, 220);
+    background-color: rgb(19, 60, 26);
+}
+
+/* input[type="button"]{
+    color: green;
+    background-color: white;
+} */
+a[href="https://www.google.co.in/"]{
+    color: red;
+}
+a[href="https://www.google.co.uk/"]{
+    color: rgb(0, 255, 55);
+}
+a[href="https://www.flipkart.com/"]{
+    color: rgb(233, 13, 174);
+}
+a[href="https://www.facebook.com/"]{
+    color: rgb(163, 233, 13);
+}
+/* code for same name
+a[href *="google"]{
+    color:red;
+}
+*/
+/* code for same end word
+a[href $=".com"]{
+    color:green;
+}
+*/
+/* code for same starting word
+a[href ^="https"]{
+    color:blue;
+}
+*/

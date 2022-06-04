@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-red{
+    color: rgb(136, 17, 17);
+}
+.text-green{
+    color: rgb(53, 124, 53);
+}
+.bg-dark{
+    background:rgb(85, 85, 85) ;
+}
+.text-pink{
+    color: pink;
+}

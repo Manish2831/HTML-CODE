@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-heading{
+    background-color:#4f1dda;
+}
+.main-section{
+    background-color: #075f37;
+}
+p{
+    color: rgb(222, 245, 16) ;
+}

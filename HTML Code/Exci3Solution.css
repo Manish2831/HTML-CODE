@@ -1,0 +1,37 @@
+body{
+    font-family: 'poppins',sans-serif;
+    color: #444; 
+    padding:0px 40px ;
+}
+nav{
+    background-color: #cecece;
+}
+a{
+    color: #444;
+    text-decoration:none ;
+}
+h1,h2,h3{
+    color: #222;
+}
+h2{
+    border-bottom: 1px solid black;
+}
+
+nav ul{
+    padding-left:0px ;
+    text-align: center;
+}
+
+
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    border-bottom: 1px solid #444;
+    margin:15px 20px ;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+section{
+    margin: 10px;
+}
